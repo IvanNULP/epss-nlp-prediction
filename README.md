@@ -3,8 +3,6 @@
 **Replication package for:**
 > Assessment of Software Vulnerability Exploitation Risk Using Natural Language Processing Methods Based on Open NVD and EPSS Data
 
-*Submitted to Computers & Security (Elsevier, Q1)*
-
 ---
 
 ## Overview
