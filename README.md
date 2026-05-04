@@ -47,7 +47,7 @@ This repository contains the complete replication package for a study that evalu
 ## Dataset
 
 The merged CVE-EPSS dataset (218,292 records) is archived on Zenodo:
-> DOI: [to be assigned upon publication]
+> DOI: 10.5281/zenodo.20019540
 
 **Sources:**
 - NVD API 2.0: https://services.nvd.nist.gov/rest/json/cves/2.0
